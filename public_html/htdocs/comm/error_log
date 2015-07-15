@@ -1,0 +1,5 @@
+[27-Apr-2015 21:17:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in /home/ods2015/public_html/htdocs/core/class/html.formmail.class.php on line 498
+[27-Apr-2015 21:17:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';' in /home/ods2015/public_html/htdocs/core/class/html.formmail.class.php on line 498
+[27-Apr-2015 21:17:54 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';' in /home/ods2015/public_html/htdocs/core/class/html.formmail.class.php on line 498
+[27-Apr-2015 21:18:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';' in /home/ods2015/public_html/htdocs/core/class/html.formmail.class.php on line 498
+[27-Apr-2015 22:00:08 Europe/Berlin] PHP Catchable fatal error:  Object of class FormMail could not be converted to string in /home/ods2015/public_html/htdocs/core/class/html.formmail.class.php on line 487

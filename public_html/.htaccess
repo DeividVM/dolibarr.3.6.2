@@ -1,0 +1,13 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_REFERER} !^http://opendoorsoft.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://opendoorsoft.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.opendoorsoft.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.opendoorsoft.com$      [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]
+
+RewriteCond %{HTTP_HOST} ^opendoorsoft\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.opendoorsoft\.com$
+RewriteRule ^/?$ "http\:\/\/www\.opendoorsoft\.com\/htdocs" [R=301,L]
+

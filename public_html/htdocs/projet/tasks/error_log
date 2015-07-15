@@ -1,0 +1,2 @@
+[18-Mar-2015 20:03:52 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ods2015/public_html/htdocs/core/modules/project/task/pdf/doc_generic_task_odt.modules.php:411) in /home/ods2015/public_html/htdocs/main.inc.php on line 923
+[22-Mar-2015 20:25:18 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ods2015/public_html/htdocs/core/modules/project/task/pdf/doc_generic_task_odt.modules.php:411) in /home/ods2015/public_html/htdocs/main.inc.php on line 923

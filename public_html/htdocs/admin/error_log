@@ -1,0 +1,4 @@
+[14-Apr-2015 20:36:30 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /home/ods2015/public_html/htdocs/core/modules/DolibarrModules.class.php on line 751
+[14-Apr-2015 20:36:30 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ods2015/public_html/htdocs/core/modules/DolibarrModules.class.php:751) in /home/ods2015/public_html/htdocs/admin/modules.php on line 52
+[14-Apr-2015 20:37:54 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in /home/ods2015/public_html/htdocs/core/modules/DolibarrModules.class.php on line 819
+[14-Apr-2015 20:37:54 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ods2015/public_html/htdocs/core/modules/DolibarrModules.class.php:819) in /home/ods2015/public_html/htdocs/admin/modules.php on line 60
